@@ -1,0 +1,8 @@
+#output, #camera {
+    border: 2px dotted darkblue;
+    width: 300px;
+    height: 300px;
+}
+.Bold, #Ob, #Ac{
+color: mediumblue;
+}
